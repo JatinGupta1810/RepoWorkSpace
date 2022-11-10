@@ -20,7 +20,6 @@ public class Umpire {
 
 		// Now compare the numbers
 		u.compareResult();
-
 	}
 
 	public void compareResult() {
